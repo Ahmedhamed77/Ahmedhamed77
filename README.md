@@ -5,8 +5,8 @@
 
 
 - 🔭 I’m currently working on ... projects with react and react native using typescript
-- 🌱 I’m currently learning ... NodeJS - Dart
-- 👯 I’m looking to collaborate on ...Open Source Projects and Hackathons
+- 🌱 I’m currently learning ... NodeJS - Swift
+- 👯 I’m looking to collaborate on ...Open Source Projects
 - 💬 Ask me about ... anything i will try to help you if i can
 
 
