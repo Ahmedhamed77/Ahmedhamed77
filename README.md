@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on ... projects with React and React native using typescript
-- 🌱 I’m currently learning ... Kotlin and android
+- 🌱 I’m currently learning ... Kotlin
 - 👯 I’m looking to collaborate on ...Open Source Projects
 - 💬 Ask me about ... anything I will try to help you if I can
 
